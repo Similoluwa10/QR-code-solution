@@ -27,8 +27,8 @@ This is a solution to a Frontend Mentor challenge strictly using HTML and CSS. T
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Similoluwa10/QR-code-solution.git)
-- Live Site URL: [Add live site URL here](https://similoluwa10.github.io/QR-code-solution/)
+- Solution URL: [(https://github.com/Similoluwa10/QR-code-solution.git)]
+- Live Site URL: [(https://similoluwa10.github.io/QR-code-solution/)]
 
 ## My process
 
@@ -56,8 +56,8 @@ Use of grid and flexbox
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This material was helpful for me to refer to whenever I needed help in using a tag in HTML or a CSS style. I liked it and will use it going forward.
-- [Example resource 2](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) - This is a fantastic article which served as a guide to submit my project.
+- [(https://www.w3schools.com)] - This material was helpful for me to refer to whenever I needed help in using a tag in HTML or a CSS style. I liked it and will use it going forward.
+- [(https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)] - This is a fantastic article that served as a guide to submit my project.
 
 ## Author
 
