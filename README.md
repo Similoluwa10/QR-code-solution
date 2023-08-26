@@ -1,1 +1,1 @@
-# QR-code-solution-frontendmentor
+# QR-code-solution
